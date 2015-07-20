@@ -1,0 +1,15 @@
+* {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.main-container {
+	border: solid 1px #ccc;
+	width: 500px;
+	height: 500px;
+	margin: 20px auto;
+	padding: 10px;
+}
+
+article {
+	margin-top: 20px;
+}
